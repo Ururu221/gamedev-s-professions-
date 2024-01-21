@@ -3,3 +3,9 @@ https://www.coursera.org/articles/game-developer
 https://www.codecademy.com/resources/blog/entry-level-game-development-blogs/
 
 https://8bitplay.com/blog/game-programmer-job-roles-explained-a-recruiter-guide/
+
+https://github.com/miloyip/game-programmer
+
+https://gameprogrammingpatterns.com/sample.pdf
+
+https://gameprogrammingpatterns.com/sample.pdf
