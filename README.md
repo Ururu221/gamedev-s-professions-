@@ -1,9 +1,9 @@
 # GameDev's Professions Depozitov MaxBetov Internetionall Beta Alpha Original Global Main State Project 
 
 ## Contributors
-- M̶a̶r̶e̶n̶y̶c̶h̶ ̶F̶
-̶- P̶o̶n̶o̶c̶h̶e̶v̶n̶y̶i̶ ̶D̶
-̶- D̶e̶n̶y̶s̶e̶n̶k̶o̶ ̶D̶
+- M̶a̶r̶e̶n̶y̶c̶h̶ ̶F̶  
+̶- P̶o̶n̶o̶c̶h̶e̶v̶n̶y̶i̶ ̶D̶  
+̶- D̶e̶n̶y̶s̶e̶n̶k̶o̶ ̶D̶  
 - ChatGPT
 - Bard
 
