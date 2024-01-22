@@ -4,7 +4,7 @@
 
 Welcome to the GameDev's Professions project! This repository documents the collaborative efforts of contributors who participated in the task assigned to Marenych F, Ponochevnyi D, and Denysenko D, specifically focusing on the development and exploration of INDZ-1.
 
-![](images/pngwing.com_3.png)
+<img src="images/pngwing.com_3.png" width="300"/>
 
 ## Task Details
 
