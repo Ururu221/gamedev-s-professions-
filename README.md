@@ -1,5 +1,12 @@
 # GameDev's Professions Depozitov MaxBetov Internetionall Beta Alpha Original Global Main State Project 
 
+## Contributors
+
+- Marenych F
+- Ponochevnyi D
+- Denysenko D
+- ChatGPT
+
 ## Overview
 
 Welcome to the GameDev's Professions project! This repository documents the collaborative efforts of contributors who participated in the task assigned to Marenych F, Ponochevnyi D, and Denysenko D, specifically focusing on the development and exploration of INDZ-1.
@@ -9,13 +16,6 @@ Welcome to the GameDev's Professions project! This repository documents the coll
 ## Task Details
 
 The task involved contributions to the project by Marenych F, Ponochevnyi D, and Denysenko D, with a specific focus on the development and analysis of INDZ-1. This profession plays a crucial role in the game development process, and the collaborative efforts of the team are documented here.
-
-## Contributors
-
-- Marenych F
-- Ponochevnyi D
-- Denysenko D
-- ChatGPT
 
 ## Project Structure
 
