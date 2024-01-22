@@ -1,4 +1,4 @@
-# GameDev's Professions Depozitov MaxBetov Internetionall Beta Alpha Original Global Main State Project 
+# GameDev's Professions Depozitov MaxBetov International Beta Alpha Original Global Main State Project 
 
 ## Contributors
 - M̶a̶r̶e̶n̶y̶c̶h̶ ̶F̶
