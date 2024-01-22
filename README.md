@@ -13,6 +13,7 @@ The task involved contributions to the project by Marenych F, Ponochevnyi D, and
 - Marenych F
 - Ponochevnyi D
 - Denysenko D
+- ChatGPT
 
 ## Project Structure
 
